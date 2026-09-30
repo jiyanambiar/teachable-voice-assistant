@@ -8,8 +8,13 @@ FRIDAY replays the steps you teach. It does not decide what to do next or search
 
 - `android-app/` — the Android Studio project and Gradle build files.
 - `Friday.apk` — a prebuilt debug APK you can install on an Android phone.
+- `FRIDAY-Presentation.pptx` — the project presentation.
 - `Friday-demo.mp4` — a video demonstration of FRIDAY.
 - `README.md` — this guide.
+
+## Project presentation
+
+Download the [FRIDAY presentation](FRIDAY-Presentation.pptx).
 
 ## Demo video
 
