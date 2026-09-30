@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FRIDAY</string>
+    <string name="accessibility_service_name">FRIDAY workflow access</string>
+    <string name="accessibility_description">FRIDAY records and replays the steps you explicitly teach in other apps.</string>
+</resources>

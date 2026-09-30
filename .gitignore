@@ -1,0 +1,13 @@
+# Android and Gradle build outputs
+.gradle/
+**/.gradle/
+**/build/
+**/build-codex/
+local.properties
+android-app/local.properties
+
+# IDE-local files
+.idea/
+
+# Duplicate of Friday.apk
+Friday-updated.apk

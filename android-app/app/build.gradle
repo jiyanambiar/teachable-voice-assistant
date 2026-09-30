@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.morrow.assistant'
+    compileSdk 37
+
+    defaultConfig {
+        applicationId 'com.morrow.assistant'
+        minSdk 26
+        targetSdk 35
+        versionCode 1
+        versionName '1.0'
+    }
+}
