@@ -1,0 +1,4 @@
+This is a native Android application and does not use Python packages.
+
+Android build plugins and dependencies are managed by Gradle in the android-app/ project.
+Open android-app/ in Android Studio and allow Gradle to sync before building.
